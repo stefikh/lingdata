@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-24T07:24:09+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/пользователь/Desktop/AlinaInterview.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./AlinaInterview.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4addd8db-c3d8-4150-9799-33b5ddca1d0a</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">119</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="26"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2931"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3516"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5552"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5552"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="7902"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="7905"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="8600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="12671"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="12672"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="15074"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15074"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="18929"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="18929"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="22664"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="22665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="24453"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="24453"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="27652"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="27652"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="31536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="31536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="34452"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="34452"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="39140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="39140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="39140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="39141"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="41900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="41904"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="43280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="43287"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="43321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="43321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="43657"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="43658"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="44360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="44360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="46895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="46896"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="47980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="47980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="47982"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="47990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="52490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="52490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="52491"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="52865"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="53750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="53750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="54158"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="54158"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="56830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="58857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="58858"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="58858"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="59053"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="59055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="59780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="59782"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="62285"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="65740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="67615"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="67740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="69570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="70105"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="70525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="79260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="79940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="80230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="81780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="83120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="83770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="93050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="93540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="93600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="94100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="103110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="103520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="105650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="106480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="106640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="106850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="115660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="115970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="124330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="125180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="132100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="132860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="145320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="145810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="152710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="153760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="154420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="155190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="158120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="158480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="166620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="167700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="169250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="169830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="169900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="170475"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="170485"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="170830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="178875"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="179310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="184690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="185300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="185430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="185730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="186530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="187620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="201580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="201580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="202800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="203720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="204925"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="205640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="230140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="230540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="231480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="233440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="239335"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="242360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="243570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="243925"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="245595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="247285"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="248935"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="250515"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="260400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="260940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="265990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="267030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="270940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="271180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="288960"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Stefa" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@m1980f" TIER_ID="text@m1980f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>хах! / аээ /  д..нет... я... да я из Финляндии // нет / я не говорю по-фински //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>я говорю по-русски // нет / я не училась в России в университете // да ты прям сразу так! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>#цокает#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>вот // а теперь давай с тобой вообще перейдём на тему / как / эээ / ты попала учиться в Финляндию //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>давай поговорим немножечко //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>так / сейчас #нрзб# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>у вас! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>мгмм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>так... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE>мгхм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>и всё это на английском языке? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
+                <ANNOTATION_VALUE>мгхм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts113">
+                <ANNOTATION_VALUE>#цокает#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts123">
+                <ANNOTATION_VALUE>аээ... / по-поводу этого экзамена внутренне..го // #цокает# / когда я поступала получается / в десятом году сдавала экзамены //  у меня по крайнеё мере была такая информация / что в Финляндии они вообще заинтересованы / чтобы к ним приезжали студенты учиться // и / по-моему / только для Петербурга и Ленинградской области / по-скольку мы самые ближайший к ним / как бы... вот регион / / #цокает# мы могли не сдавать /  вот... вот эти вот экзамены // мы могли сдать внутренний экзамен //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>то есть... в... / потому что ребята / вот / по-моему / то что ..вот.. из Самары ребята / они / по-моему / сдавали экзамен // а я не сдавала // я / ну / на IELTS / по-моему / не сдавали // вот // а я когда приехала / я сдавала внутренний экзамен //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>да да да да да / я просто говорю / что может быть поэтому ты сдава... ну то есть сдавала / а когда ты приехала к ним туда / может они / чего-то там это / ну / может / у них там / как-то // потому что / когда я сдавала была такая история / что мы / как вот Питер или / ну  область / мы не сдавали / мы могли просто у них там сдать // не знаю почему // ну вот //       </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
+                <ANNOTATION_VALUE>мм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Stefa" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@ae1994f" TIER_ID="text@ae1994f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>#вздыхает# эээ кстати / у меня тоже такое было / когда меня спрашивали // эээ когда я по обмену приехала в Испанию // ты откуда? / я говорю / ну / вот я / из Финляндии //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>ээ // ну в смысле / я имею в..в... / а! сначала я говорила / что я из России // понятное дело / потому что / ну / я из России // и они начинали меня спрашивать откуда т... аээ / аа как обучение в России? / а как университет? / а я говорю /  эээ / я не знаю / я в Финляндии учусь // и мне надоело говорить каждый раз вот эту вот / последовательность / что я / и я начала говорить / что я приехала из Финляндии / что тоже правда // я училась в Финлядии / и сразу оттуда поехала по обмену // так началось / эээ скажи что-нибудь по-фински... / аа фины... / А как фины? А что фины? Аээ вы все такие? я говорю / я русская / если что // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>#смеется# /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>#нрзб# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>это капец просто / ну / когда ты по обмену едешь / ты знакомишься сразу с тонной людей //  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>эээ / и.. и.. каждому объяснять твою историю / это... это.. / #свист# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>ужасно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>у меня / кстати / на страничке есть стори тайм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>но / в кратце / мне очень понравилось эээ // ну как / мне нравилась музыка / рок // я прям решила / что я / эмм в 15 лет будут прям рокером //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>я ходила // у меня была чёрная одежда и всё такое //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>ну я просто / в какой-то момент решила / я / что / у нас же / я не знаю / эээ у всех / наверное / был такой этап в школе / когда у вас / эти / эмо / аээ / рокеры... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>у нас прям было жёстко // и / я решила / что я рокер. / а раз я рокер / мне нужно слушать метал // а какая страна // эээ /  как бы // родина метала фактически? Финляндия // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>мне очень нравилась музыка / потом я познакомилась с ребятами / которые прям очень часто ездили туда // и // я сама туда несколько раз ездила // сюда то есть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>и мне понравилось / и / я решила учить финский / потому что когда ты учишь финский / у тебя открывается ещё целая библиотека музык.. музыки // на финском языке //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>вот // а потом моя подруга // #цокает# поехала учиться в Финляндию // и / я решила / что мне тоже хочется //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>просто / вот / ну / не знаю // по-приколу попробовать поступить // если поступлю не п...эээ...ну / круто / если не поступлю / то / ну / в России я тоже подавала / эээ во всякие универы // я эмм олимпиады всякие писала // ну / всё.. всё это такое //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>и // Как-то так получилось / что // э я подготовилась к экзамену / то есть / экзамен..ы были на английском языке //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>иии... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>я готовилась к математике / гот... ну / у меня айти профиль был / я соответственно должна была знать математику / физику / химию. // вот / и у меня были задачи по математике / физике / химии // и я соответственно... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
+                <ANNOTATION_VALUE>да-м / да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>и ещё надо было // кстати / в мой год ээ / б..по-моему / был первый год / когда отменили вот этот сертификаты / и...ээ / английского языка / но я не знала //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>ээ п... там должен был быть определённый проходной балл по / и...и... или айлтс / или тоэфл //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>я сдавала айлтс //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts117">
+                <ANNOTATION_VALUE>и... чтобы поступить / эээ / а потом... / я приезжаю на экзамен / и мне говорят / #цокает# / ну слушай / у нас тут внутренний английский экзамен есть вообще-то / но если ты написала... эээ / типо сдала с..сертификат / то... тебе максимальный балл автоматически присваивается //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>думаю / ну / окей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts121">
+                <ANNOTATION_VALUE>#вздыхает# и / так получилось //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts125">
+                <ANNOTATION_VALUE>мм // нет / я не видела этого #нрзб# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+                <ANNOTATION_VALUE>мгхм // я не сдавала внутренний //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts131">
+                <ANNOTATION_VALUE>я то не из Питера / я не з.. ну как бы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
+                <ANNOTATION_VALUE>нет нет не я #нрзб# // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>нет / я сдавала не в Петербурге экзамены // у нас  были в Обнинске экзамены и в Дмитрове //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>аээ / И там тоже / не надо было оказывается сдавать // некоторые / кстати / знали об этом / по-моему // потому что я знаю / что некоторые... у некоторых.. н..некоторые писали этот экзамен на английский // мне не пришлось // я даже не знаю аээ содержания / потому что я.. готовилась... / к айлтсу / я его сдала // и потом уже... // ну // минус один экзамен получился у меня //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Stefa" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@m1980f" TIER_ID="spokencorpora@m1980f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Хах! аээ  Д..Нет... Я... Да-а! Я из Финляндии. Нет, я не говорю по-фински,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>я говорю по-русски. Нет, я не училась в России в университете.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>Да ты прям сра-азу так!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>{Цоканье}</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>Во-от. А тепе-ерь, давай с тобой вообще перейдём на-а тему,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Stefa" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@ae1994f" TIER_ID="spokencorpora@ae1994f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>∙∙∙ ээ  Кстати у меня тоже такое было, когда меня спрашивали-и, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>(∙∙ ээ когда я по обмену приехала в Испанию-у),:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>«Ты откуда?» я говорю, ну-у, от-т я-я-а-э из Финляндии.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>∙∙∙ ээ ∙∙∙ ну, в смысле-е, я име-ею в...в... А! Сначала я говорила, что я из /России,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>∙Понятное дело,  потому что, ну-у, я из России</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>∙ И они начинали меня спрашивать: «/Откуда т... Ау... /а как \обуче-ение в \России-и?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>∙ А как университет?» А я говорю: «ээ Я не зна-аю, я в Финляндии учусь».</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>И мне надоело говорить каждый раз вот эту вот </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>последовательность, что я-я-а... ∙∙ И я начала говорить,  что я приехала из Финляндии</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>∙∙ Что то-оже правда, (я училась в Финлядии и сразу оттуда поехала ' по обмену).</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>∙∙∙  Так началось: (эээ) «Скажи что-нибудь по-фински-и. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>∙ Аа фины... А как фины? А что фины? А-э-а-э вы все такие?» Я говорю: «Я русская, если что».</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE># смеётся# &lt;Нет, я не говорила...&gt;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Это-о капец просто, ну-у(0.335),  когда ты по обмену едешь, ты знакомиш-шься сразу с тонной людей</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>∙∙ эээ Ии ' Ии каждому объяснять твою исто-орию, это... это... #свист# ∙∙∙∙∙</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Ужасно-о...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Stefa" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@ae1994f"
+        PARTICIPANT="@ae1994f" TIER_ID="transl@ae1994f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>#sigh# Erm by the way, I had the same situation, when I was asked, uuh when I came by exchange to Spain: "Where did you come from?" I said: "Well, here I'm from Finland".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Erm, well in the sense, I mean at... at... ah! at the beginning I said, I was from Russia, of course, because, well, I'm from Russia. And they started to ask me: "where y... uhh aan.. how is studying in Russia? And how is university?" And I said ermm: "I don't know, I'm studying in Finland". And I got tired of telling the whole sequence every time chain. And I... and I started to say that I came from Finland, what is actually true. I was studying in Finland and immediately came from there on an exchange. So it started: "Erm say something in finnish. Uh fins... And how finns? And what finns? Erm and are you all like that?" I said: "I'm Russian, by the way."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>#laughs# / </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>#illegible#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>This is a horror, because, well, when you go on an exchange, you get acquainted with a ton of people at once!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>emm And when you every time had to explain your story, it’s… #whistling#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Terrible.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>By the way, on my page I have the story time.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>but in short I like music… rock music. Erm, well,  when I was 15, I decided to be a true rocker.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>I wore black clothes and everything like this.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>But I just at some point I decided to be… I don’t know, probably everyone had such stage in school, when you had.. mmmm… there were emo and rockers...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>We had it right tough! And I decided I was a rocker. And since I'm a rocker, I need to listen to metal. And which country is the birthplace of metal in fact? Finland. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>I really liked the music. Then I met some guys who went there quite often. And I went there several times. Here, I mean. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>I really liked it and I decided to learn Finnish, because when you learn it, you open up a huge library of mus... music in Finnish.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Well, and then my friend #clincing# went here to study, and I decided that I want it too/</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Just.. well, I don’t know.. try to enter the university just for fun. If I entere, it would be cool. If I don’t… well, I applied to Russian’s universities, I wrote a lot of Olympics and so on.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>And somehow it turned out that way. I prepared for the exam, I mean, exam..s were in English.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>aand...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>I prepared for Maths, prep... well, I had an IT profile, accordingly, I had to know mathematics, physics, chemistry.. well, I had in maths, physics, chemistry, accordingly...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>yes, yes/</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Oh I also had to, by the way, in my year, uh, in my opinion, it was the first year when this English certificate was canceled, and ... but I didn't know.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>Erm p.. there should have been a certain passing score on IELTS and TOEFL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>I passed IELTS.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>t... to enter the university, erm and then I arrived and I was said #clincing#: “Listen, by the way we have internal English exam, but if you passed the certificate, a score is automatically assigned to you.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>I think: “OK”. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>#sighs# And it just happened.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>No, I didn’t see #illegible#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>No, I didn’t take internal exam.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>But I’m not from Saint-Petersburg, I don’t k.. well.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>No no no, I didn't #illegible#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>No, I didn’t take exams in St. Petersburg. We had exams in Obninsk and in Dmitrov.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>Erm.. And there too. It turns out that it wasn't necessary to take... someone, by the way, knew about it , in my opinion, because I know that some... some of them wrote this English exam. I didn't have to. I don't even know the content, because I.. I was preparing... for IELTS, I took and passed it. And then ...,well, minus one exam for me. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Stefa" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@m1980f"
+        PARTICIPANT="@m1980f" TIER_ID="transl@m1980f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Hah! Erm Ye.. No..I.. yes I’m from Finland. No, I don't speak Finnish.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>I speak Russian. No, I didn’t study in university in Russia. So, you're straight away like that!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>#clincing#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>So, let’s go to the topic, erm how did you get to study in Finland.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Let’s talk a little. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>So one moment… #illegible# </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>In your time!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Mmmm…</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>So...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Mmmm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Was all this in English? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>mmm...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>#clincing#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Erm... to say about this internal exam… It turns out when I entered in a university and passed my exams in 2010, at least I had information that in Finland they are interested in having students come to study in their country and to my mind it was only for Saint Petersburg and Leningrad Region as we are the closest to them. So… #clincing# we could take only this internal exam.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>I mean, that to my mind guys from Samara took the exam, but I didn’t. Well, on IELTS in my opinion I didn’t, and when I arrived I passed an internal exam</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Yes yes yes yes.  I'm just saying / that maybe that's why you too... well, that is, you took, when you came to them there, maybe they are, something there, well, maybe, they have somehow. Because, when I took there was such story, that we are, like In St. Petersburg or in the region, we did not took an exam, we could just take them there. I don't know why. Well..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>mm...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
