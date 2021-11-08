@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-11-08T10:00:15+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-11-08T22:09:11+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -2232,7 +2232,7 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="Stefa" DEFAULT_LOCALE="ru"
-        LINGUISTIC_TYPE_REF="focus" PARTICIPANT="@m1980f" TIER_ID="focus@m1980f">
+        LINGUISTIC_TYPE_REF="pause" PARTICIPANT="@m1980f" TIER_ID="focus@m1980f">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7660"
                 TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts243">
@@ -2523,7 +2523,7 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="Stefa" DEFAULT_LOCALE="ru"
-        LINGUISTIC_TYPE_REF="focus" PARTICIPANT="@ae1994f" TIER_ID="focus@ae1994f">
+        LINGUISTIC_TYPE_REF="pause" PARTICIPANT="@ae1994f" TIER_ID="focus@ae1994f">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7375"
                 TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts9">
